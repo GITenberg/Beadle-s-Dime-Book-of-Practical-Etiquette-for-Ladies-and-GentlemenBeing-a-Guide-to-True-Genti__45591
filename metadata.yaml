@@ -1,0 +1,31 @@
+_repo: Beadle-s-Dime-Book-of-Practical-Etiquette-for-Ladies-and-GentlemenBeing-a-Guide-to-True-Genti__45591
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45591-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2014-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Etiquette'
+title: 'Beadle''s Dime Book of Practical Etiquette for Ladies and Gentlemen
+
+  Being a Guide to True Gentility and Good-Breeding, and a Complete Directory to the
+  Usages and Observances of Society'
+url: http://www.gutenberg.org/ebooks/45591
